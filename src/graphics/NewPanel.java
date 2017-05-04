@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package juego;
+package graphics;
 import java.awt.Color;
 import javax.swing.*;
 import java.awt.Graphics;
@@ -13,7 +13,7 @@ import java.awt.event.ActionListener;
 
 /**
  *
- * @author Estudiante
+ * @author Chris
  */
 public class NewPanel  extends JPanel implements ActionListener{
     
